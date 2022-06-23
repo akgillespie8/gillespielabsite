@@ -3,7 +3,7 @@ title: "Gillespie Lab - Home"
 layout: homelay
 excerpt: "Gillespie Lab at the University of Washington"
 sitemap: false
-permalink: /home/
+permalink: 
 ---
 
 # We are a new research group at the [University of Washington](https://www.washington.edu/) focused on using hippocampal spatial representations as a window into cognitive decline during aging and neurological disease. 
