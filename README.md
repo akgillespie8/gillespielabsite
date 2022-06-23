@@ -1,9 +1,4 @@
----
-title: "Gillespie Lab - Home"
-layout: home
-excerpt: "Gillespie Lab at the University of Washington"
 
----
 
 # Welcome to the Gillespie lab! 
 
