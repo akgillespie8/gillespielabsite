@@ -3,7 +3,7 @@ title: "Gillespie Lab - Home"
 layout: homelay
 excerpt: "Gillespie Lab at the University of Washington"
 sitemap: false
-permalink: 
+permalink: /home/
 ---
 
 # Welcome to the Gillespie lab! 
