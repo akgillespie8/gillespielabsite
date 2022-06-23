@@ -27,7 +27,7 @@ $brand-danger:          #FF4136 !default;
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-$body-bg:               #ff0 !default;
+$body-bg:               #153d47 !default;
 //** Global text color on `<body>`.
 $text-color:            $gray !default;
 
@@ -379,8 +379,8 @@ $navbar-default-link-disabled-color:       $gray-lighter !default;
 $navbar-default-link-disabled-bg:          transparent !default;
 
 // Navbar brand label
-$navbar-default-brand-color:               $navbar-default-link-hover-color !default;
-$navbar-default-brand-hover-color:         $navbar-default-link-hover-color !default;
+$navbar-default-brand-color:               $grey-dark !default;
+$navbar-default-brand-hover-color:         $grey-dark !default;
 $navbar-default-brand-hover-bg:            transparent !default;
 
 // Navbar toggle
