@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Gillespie Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Gillespie Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -53,9 +53,7 @@ permalink: /publications/
 
 
 ## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
-
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
+<em>Gillespie AK, Frank LM</em><br />Neurofeedback Training to Promote Sharp-wave Ripples<br /> U.S. Patent Application No. 62/887,875 (2019)
 
 ## Full List of publications
 
