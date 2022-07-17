@@ -1,4 +1,4 @@
-
+<div id="homeid" class="col-sm-8">
 
 # Welcome to the Gillespie lab! 
 
@@ -68,3 +68,8 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
 
+ </div>
+
+ <div id="newsid" class="col-sm-4" >
+    {% include news.html %}
+  </div>
