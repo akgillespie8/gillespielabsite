@@ -20,7 +20,7 @@ permalink: /resources/
 
 **Faculty Applications**
 
-[Anna's thoughts and advice on the academic job market](/reflections.pdf)
+[Anna's thoughts and advice on the academic job market]({{ site.url }}{{ site.baseurl }}/pages/reflections.pdf)
 
 [Application materials](https://drive.google.com/drive/folders/1NO-0TC0NtO63ACdisLsQnGTT80trS1PL?usp=sharing)
 (you'll have to request access to the google drive folder, but I'll grant it!)
