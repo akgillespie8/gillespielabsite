@@ -24,7 +24,7 @@ We are a new research group at the [University of Washington](https://www.washin
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/replayexamples.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tetwires.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tetwires2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tetwires2.jpg" alt="Slide 3" />
@@ -68,8 +68,3 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
 
-
-
-<div id="newsid" class="col-sm-4" >
-{% include news.html %}
-</div>
