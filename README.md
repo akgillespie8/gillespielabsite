@@ -70,9 +70,6 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
 
  </div>
 
- <div id="newsid" class="col-sm-4" >
-    {% for article in site.data.news %}
-    <p>{{ article.date }} <br>
-    <em>{{ article.headline | markdownify}}</em></p>
-    {% endfor %}
-  </div>
+<div id="newsid" class="col-sm-4" >
+    {% include news.html %}
+</div>
