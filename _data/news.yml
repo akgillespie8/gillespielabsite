@@ -1,34 +1,16 @@
 
 - date: May 2022
-  headline: "Two new papers on arXiv! One on [persistent gaps and non-mean-field breakdown of SC](https://arxiv.org/abs/2205.09740), and one on [shot-noise of individual (putative) Majorana modes](https://arxiv.org/abs/2205.10346)."
+  headline: "**Two new papers on arXiv!** One on [persistent gaps and non-mean-field breakdown of SC](https://arxiv.org/abs/2205.09740), and one on [shot-noise of individual (putative) Majorana modes](https://arxiv.org/abs/2205.10346)."
 
 - date: 29. October 2021
   headline: "**Our new paper, on Cooper pairs above Tc, is published in [Science](https://www.science.org/doi/10.1126/science.abe3987)**.
   See [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered), [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/)."
 
 - date: 24. May 2019
-  headline: "The smart tip paper <a href='https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf'> is finally published !</a> A collaboration with the <a href='http://groeblacherlab.tudelft.nl/'>Gröblacher Lab</a> at TU Delft.<img src='/images/newspic/SmartTip.png' class='img-responsive' style='max-width: 192px' />"
-
-- date: 12. August 2017
-  headline: "<a href='https://www.universiteitleiden.nl/en/news/2017/08/two-erc-grants-for-leiden-physics'>We got an ERC starting grant</a>."
-
-- date: 17. - 21. July 2017
-  headline: "Koen, Maarten and Milan will be at SCES 2017, Prague. Come check out our posters on Tuesday&Thursday and talk on Thursday!"
-
-- date: 18. June 2017
-  headline: "<b>Paper on poor electronic screening published in  <a href='https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141'>  PRB</a> as Editors' selection! </b>"
-
-- date: 15. May 2017
-  headline: Welcome Doohee!
-
-- date: 13. - 17. March 2017
-  headline: Koen & Irene give talks at the APS March Meeting in New Orleans.
+  headline: "The smart tip paper <a href='https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf'> is finally published !</a> A collaboration with the <a href='http://groeblacherlab.tudelft.nl/'>Gröblacher Lab</a> at TU Delft.<img src='{{ site.url }}{{ site.baseurl }}/images/newspic/SmartTip.png' class='img-responsive' style='max-width: 192px' />"
 
 - date: 27. January - 3. March 2017
   headline: "We are looking forward to co-hosting <a href='http://www.lorentzcenter.nl/lc/web/2017/877/info.php3?wsid=877&venue=Oort'>the workshop on unconventional superconductivity</a> at the Lorentz center. <img src='/images/newspic/LCposter.jpg' class='img-responsive' style='max-width: 192px' />"
-
-- date: 17-18. January 2017
-  headline: Irene, Koen, Maarten and Milan will be at Physics@Veldhoven 2017. (Talk at PT6.1 and poster at P9.022).
 
 - date: 25. November 2016
   headline: "We are part of a newly granted <a href='https://www.fom.nl/en/research/research-programmes/general-information//'>Vrije Programma</a> on strange metals, together with the groups of <b> Hussey, Golden, vHeumen, Zaanen, Schalm, Stoof and Vandoren</b>, see <a href='https://www.fom.nl/en/news/press-releases/2016/11/21/fom-awards-15-1-million-euros-to-highly-promising-research/'>press release</a>. We also got a <a href='https://www.fom.nl/en/news/press-releases/2016/11/18/28634/'>Projectruimte</a>."
@@ -39,20 +21,11 @@
 - date: 17. Jan 2016
   headline: "We discover electronic order and pseudogap in a non-cuprate materal! <img src='/images/newspic/order.png' class='img-responsive' style='max-width: 192px' />"
 
-- date: 01. Jan 2016
-  headline: Welcome Vitaly!
-
-- date: 17. June 2015
-  headline: Welcome Kees!
-
 - date: 17. June 2015
   headline: "Maarten wins the LION image award! Check out his <a href='https://www.physics.leidenuniv.nl/index.php?id=11573&news=757&type=lion&ln=EN'>submission</a>.<img src='/images/newspic/Contest.jpg' class='img-responsive' style='max-width:192px' />"
 
 - date: 17. June 2015
   headline: "<b> We win a Vidi grant: 800kEUR to invest in science! (<a href='http://www.news.leiden.edu/news-2015/5-vidis-for-leiden-reserachers.html'>Leiden news</a>, <a href='http://www.fom.nl/live/english/news/archives/pressreleases2015/artikel.pag?objectnumber=297954'>FOM news item</a>) </b>"
-
-- date: July 2022
-  headline: "text in quotes"
 
 - date: July 2022
   headline: "New preprint on bioRxiv <a href='https://www.biorxiv.org/content/10.1101/2022.02.23.481357v1'>here</a>, abhilasha's work."
