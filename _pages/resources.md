@@ -8,15 +8,18 @@ permalink: /resources/
 
 ### Scientific Resources
 **Computational**
+
 [Python package for clustered and clusterless decoding, by Eric Denovellis](https://github.com/Eden-Kramer-Lab/replay_trajectory_classification) 
 
 **Shared datasets**
+
 [Dataset from Gillespie et al, 2021](https://dandiarchive.org/dandiset/000115/0.210914.1732)
 
 ### Career
 **K99**
 
 **Faculty Applications**
+
 [Anna's thoughts and advice on the academic job market](/reflections.pdf)
 
 [Application materials](https://drive.google.com/drive/folders/1NO-0TC0NtO63ACdisLsQnGTT80trS1PL?usp=sharing)
@@ -25,7 +28,7 @@ permalink: /resources/
 **UW life**
 
 
-## two hashes not 3
+
 
 
 
