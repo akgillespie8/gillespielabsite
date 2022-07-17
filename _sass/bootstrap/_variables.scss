@@ -65,11 +65,11 @@ $line-height-base:        1.428571429 !default; // 20/14
 //** Computed "line-height" (`font-size` * `line-height`) for use with `margin`, `padding`, etc.
 $line-height-computed:    floor(($font-size-base * $line-height-base)) !default; // ~20px
 
-//** By default, this inherits from the `<body>`.
+//** By default, this inherits from the `<body>`. does not affect navbar
 $headings-font-family:    inherit !default;
-$headings-font-weight:    600;
+$headings-font-weight:    400;
 $headings-line-height:    1.1 !default;
-$headings-color:          #2721c4;
+$headings-color:          $grey-dark !default;
 
 
 //== Iconography
@@ -358,7 +358,7 @@ $container-lg:                 $container-large-desktop !default;
 //##
 
 // Basics of a navbar
-$navbar-height:                    50px !default;
+$navbar-height:                    75px;
 $navbar-margin-bottom:             $line-height-computed !default;
 $navbar-border-radius:             $border-radius-base !default;
 $navbar-padding-horizontal:        floor(($grid-gutter-width / 2)) !default;
@@ -371,7 +371,7 @@ $navbar-default-border:            $input-border !default;
 
 // Navbar links
 $navbar-default-link-color:                #030303;
-$navbar-default-link-hover-color:          $gray-dark !default;
+$navbar-default-link-hover-color:          $gray !default;
 $navbar-default-link-hover-bg:             transparent !default;
 $navbar-default-link-active-color:         $gray-darker !default;
 $navbar-default-link-active-bg:            transparent !default;
