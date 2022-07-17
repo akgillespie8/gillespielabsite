@@ -70,6 +70,6 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
 
  </div>
 
-<div id="newsid" class="col-sm-4" >
+<div id="newsid" class="col-sm-4" style="background-color:rgba(0, 0, 0, 0.0470588)">
     {% include news.html %}
 </div>
