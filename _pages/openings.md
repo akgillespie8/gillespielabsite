@@ -8,7 +8,17 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+### We are in the process of building our team! Several positions are currently open.
+
+If you're interested in working with us as a **Postdoc**
+
+**Graduate Students** Our lab is affiliated with the Neuroscience PhD program and 
+
+**Research technicians:** We have an open posting [here](link), please check it out and apply if interested! 
+
+**Undergrads:** No positions open yet, but possibly in Fall 2023. 
+
+currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
 
 We are  looking for new group members with passion, talent, and grit!
 
