@@ -65,7 +65,7 @@ $line-height-base:        1.428571429 !default; // 20/14
 //** Computed "line-height" (`font-size` * `line-height`) for use with `margin`, `padding`, etc.
 $line-height-computed:    floor(($font-size-base * $line-height-base)) !default; // ~20px
 
-//** By default, this inherits from the `<body>`. does not affect navbar
+//** By default, this inherits from the `<body>`. 
 $headings-font-family:    inherit !default;
 $headings-font-weight:    400;
 $headings-line-height:    1.1 !default;

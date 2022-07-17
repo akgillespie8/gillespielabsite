@@ -69,7 +69,7 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
 </figure>
 
 
+
+<div id="newsid" class="col-sm-4" >
+{% include news.html %}
 </div>
-  <div id="newsid" class="col-sm-4" >
-	{% include news.html %}
-  </div>
