@@ -1,0 +1,36 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Eric Denovellis
+  info: Research scientist, Loren Frank lab, UCSF
+  number_educ: 1
+  education1: Improving and extending spatial decoding algorithms
+
+- name: Saul Villeda and Jeremy Shea
+  info: UCSF
+  number_educ: 1
+  education1: Hippocampal gene expression changes with aging 
+
+- name: Marcelo Mattar and Homero Esmeraldo
+  info: University of California, San Diego
+  number_educ: 1
+  education1: Reinforcement learning models to capture the role of hippocampal replay
+
+- name: Abhilasha Joshi
+  info: Postdoc, Loren Frank lab
+  number_educ: 1
+  education1: Hippocampal-sensory coordination changes with aging
+
+
+- name: Laura Driscoll
+  info: Postdoc, Krishna Shenoy lab
+  number_educ: 1
+  education1: Dynamical systems approaches 
+

@@ -1,19 +1,19 @@
-- name: Anna K Gillespie
+- name: Dr. Anna K Gillespie
   photo: Anna1.jpg
   info: Assistant Professor, starting Jan 2023
   email: anna.gillespie (at) ucsf.edu
   number_educ: 5
   education1: Postdoc in <a href="https://franklab.ucsf.edu/">Loren Frank's lab</a> at UCSF
   education2: PhD in <a href="https://gladstone.org/people/yadong-huang">Yadong Huang's</a> lab at the Gladstone Institute of Neurological Disease
-  education3: BS from Stanford 
+  education3: BS from Stanford in Cell&Molecular Biology 
   education4: Former <a href="https://www.simonsfoundation.org/people/anna-gillespie/">Simons Collaboration on the Global Brain</a> postdoc fellow 
   education5: BRAIN Initiative K99/R00 recipient 
 
 
 - name: "This could be you!"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">open positions</a> for more info
-  email: anna.gillespie@ucsf.edu
+  photo: duckling.jpg
+  info: See <a href="{{ site.url }}{{ site.baseurl }}/vacancies">"Join us!"</a> for more info
+  email: ""
   number_educ: 0
   education1:
   education2:
