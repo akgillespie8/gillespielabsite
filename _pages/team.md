@@ -1,14 +1,14 @@
 ---
-title: "Allan Lab - Team"
+title: "Gillespie Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Gillespie Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new grad students, postdocs, and research technicians to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies)**!**
 
 
 {% assign number_printed = 0 %}
