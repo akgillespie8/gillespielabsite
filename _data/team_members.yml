@@ -12,7 +12,7 @@
 
 - name: "This could be you!"
   photo: duckling.jpg
-  info: See <a href="{{ site.url }}{{ site.baseurl }}/vacancies">"Join us!"</a> for more info
+  info: See "Join us!" tab above for more info
   email: ""
   number_educ: 0
   education1:
