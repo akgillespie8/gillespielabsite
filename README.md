@@ -53,7 +53,7 @@ We are grateful for funding from the University of Washington, the NIH BRAIN Ini
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UWlogo.png" style="width: 140px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nia.jpg" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/simons.png" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/simons.png" style="width: 220px">
 </figure>
 
  </div>
