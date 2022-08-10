@@ -21,3 +21,4 @@ Sanchez-Aguilera & Quintanilla, <a href="/pdfs/sanchez.pdf">SWRs in Alzheimer's 
 ### For when science feels impossible
 Chambliss, <a href="/pdfs/chambliss.pdf">The mundanity of excellence</a>, 1989
 Schwartz, <a href="/pdfs/schwartz.pdf">The importance of stupidity in scientific research</a>, 2008
+
