@@ -15,10 +15,11 @@ permalink: /research/
 | *Test caption* |
 To do this, we simultaneously record hundreds of neurons in the hippocampus of rats as they learn and perform complex memory-dependent tasks. Many neurons in the hippocampus are sensitive to spatial location, and these "place cells" fire in specific locations in space, as the movie to the right shows (credit: Tom Davidson). This neural activity represents the spatial aspect of the experience that the animal is having. 
 
-<figure>
-  <img src="{{site.url}}{{site.baseurl}}/images/replaygif.gif" alt="my alt text"/>
-  <figcaption>This is my caption text.</figcaption>
-</figure>
+<p align="right">
+  <img alt="img-name" src="{{ site.url }}{{ site.baseurl }}/images/placecells.gif" width="300">
+  <br>
+    <em>caption</em>
+</p>
 However, hippocampal neural activity doesn't **always** correspond to a subject's current position. Instead, the neural representation of position can briefly represent other locations - such as where the subject is headed, distant parts of an environment, or even other environments entirely. This "mental simulation" of previously experienced locations is thought to be critical for memory consolidation as well as memory-guided decision-making.  But what happens to "mental simulations" during cognitive decline? 
 
 
