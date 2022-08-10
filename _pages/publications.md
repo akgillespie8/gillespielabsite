@@ -9,9 +9,8 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+**Featured articles** (Scroll down for full publication list; all articles will be posted on bioRxiv!)
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
