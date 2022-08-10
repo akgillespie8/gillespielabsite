@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-# Publications
+## Publications
 
 **Featured articles** (Scroll down for full publication list; all articles will be posted on bioRxiv!)
 
@@ -50,11 +50,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-
-## Patents
-<em>Gillespie AK, Frank LM</em><br />Neurofeedback Training to Promote Sharp-wave Ripples<br /> U.S. Patent Application No. 62/887,875 (2019)
-
-## Full List of publications
+### Full List of publications
 
 {% for publi in site.data.publist %}
 
@@ -62,3 +58,6 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
+### Patents
+<em>Gillespie AK, Frank LM</em><br />Neurofeedback Training to Promote Sharp-wave Ripples<br /> U.S. Patent Application No. 62/887,875 (2019)
