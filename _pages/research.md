@@ -8,15 +8,14 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+**Our overarching goal is to understand the neural mechanisms of memory, how they break down in the advanced age and neurodegenerative disease, and develop novel interventional approaches to prevent such decline.**
+![]({{ site.url }}{{ site.baseurl }}/images/placecells.gif){: style="width: 300px; float: right; margin: 10px  0px"}  To do this, we simultaneously record hundreds of neurons in the hippocampus of rats as they learn and perform complex memory-dependent tasks. Many neurons in the hippocampus are sensitive to spatial location, and these "place cells" fire in specific locations in space, as the movie to the right shows (credit: Tom Davidson). This neural activity represents the spatial aspect of the experience that the animal is having. 
 
-Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
+However, hippocampal neural activity doesn't **always** correspond to a subject's current position. Instead, the neural representation of position can briefly represent other locations - such as where the subject is headed, distant parts of an environment, or even other environments entirely. This "mental simulation" of previously experienced locations is thought to be critical for memory consolidation as well as memory-guided decision-making.  But what happens to "mental simulations" during cognitive decline? 
 
-Here are some themes and techniques that we currently work on:
+![]({{ site.url }}{{ site.baseurl }}/images/replaygif.gif){: style="width: 250px; float: left; margin: 0px  10px"} **Hippocampal Replay** To be stored as memory, such experience must be consolidated - stabilized in the hippocampus as well as distributed throughout the brain. One neural mechanism of consolidation is called hippocampal replay, when the neural ensemble corresponding to an experience is rapidly **reactivated** during sleep or pauses in behavior. 
 
-**Nanofabricated "Smart Tips"**.
-![]({{ site.url }}{{ site.baseurl }}/images/replaygif.gif){: style="width: 250px; float: left; margin: 0px  10px"}
-One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
+O
 
 **Josephson STM.** Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
 We have used atomic-resolution Josephson scanning tunneling microscopy to reveal a strongly inhomogeneous superfluid in the iron-based superconductor FeTe0.55Se0.45. The results and their implications are published in Nature.
