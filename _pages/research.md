@@ -23,7 +23,7 @@ To do this, we simultaneously record hundreds of neurons in the hippocampus of r
 However, hippocampal neural activity doesn't **always** correspond to a subject's current position. Instead, the neural representation of position can briefly represent other locations - such as where the subject is headed, distant parts of an environment, or even other environments entirely. This "mental simulation" of previously experienced locations is thought to be critical for memory consolidation as well as memory-guided decision-making.  But what happens to "mental simulations" during cognitive decline? 
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/replaygif.gif){: style="width: 250px; float: left; margin: 0px  10px"} **Hippocampal Replay** To be stored as memory, such experience must be consolidated - stabilized in the hippocampus as well as distributed throughout the brain. One neural mechanism of consolidation is called hippocampal replay, when the neural ensemble corresponding to an experience is rapidly **reactivated** during sleep or pauses in behavior. 
+![]({{ site.url }}{{ site.baseurl }}/images/replaygif.gif){: style="width: 250px; float: left; margin: 0px  10px" caption="test"} **Hippocampal Replay** To be stored as memory, such experience must be consolidated - stabilized in the hippocampus as well as distributed throughout the brain. One neural mechanism of consolidation is called hippocampal replay, when the neural ensemble corresponding to an experience is rapidly **reactivated** during sleep or pauses in behavior. 
 
 O
 
