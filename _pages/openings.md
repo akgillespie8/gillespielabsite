@@ -18,7 +18,8 @@ permalink: /vacancies
 
 **Undergrads:** No positions open yet, but possibly in Fall 2023. 
 
-**For all prospective lab members**, please get in touch with [Anna]({{ site.url }}{{ site.baseurl }}/team)! In your email, please make sure to include: your CV, what your research background/experience is, and (most importantly) why you're interested in being part of **this** team, specifically!
+### For all prospective lab members
+Please get in touch with [Anna]({{ site.url }}{{ site.baseurl }}/team)! In your email, make sure to include: your CV, what your research background/experience is, and (most importantly) why you're interested in being part of **this** team, specifically!
 
 <!-- <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
