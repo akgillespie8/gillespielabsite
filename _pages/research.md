@@ -10,22 +10,16 @@ permalink: /research/
 
 **Our overarching goal is to understand how the neural mechanisms of memory break down in the advanced age and neurodegenerative disease and to develop novel interventional approaches to prevent such decline.** 
 
-| ![]({{ site.url }}{{ site.baseurl }}/images/placecells.gif){: style="width: 400px; float: right"}| 
-|:--:| 
-| *Test caption* |
+![]({{ site.url }}{{ site.baseurl }}/images/placecells.gif){: style="width: 400px; float: right; margin: 0px  10px" }
+
 To do this, we simultaneously record hundreds of neurons in the hippocampus of rats as they learn and perform complex memory-dependent tasks. Many neurons in the hippocampus are sensitive to spatial location, and these "place cells" fire in specific locations in space, as the movie to the right shows (credit: Tom Davidson). This neural activity represents the spatial aspect of the experience that the animal is having. 
 
-<p align="right">
-  <img alt="img-name" src="{{ site.url }}{{ site.baseurl }}/images/placecells.gif" width="300">
-  <br>
-    <em>caption</em>
-</p>
 However, hippocampal neural activity doesn't **always** correspond to a subject's current position. Instead, the neural representation of position can briefly represent other locations - such as where the subject is headed, distant parts of an environment, or even other environments entirely. This "mental simulation" of previously experienced locations is thought to be critical for memory consolidation as well as memory-guided decision-making.  But what happens to "mental simulations" during cognitive decline? 
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/replaygif.gif){: style="width: 250px; float: left; margin: 0px  10px" caption="test"} **Hippocampal Replay** To be stored as memory, such experience must be consolidated - stabilized in the hippocampus as well as distributed throughout the brain. One neural mechanism of consolidation is called hippocampal replay, when the neural ensemble corresponding to an experience is rapidly **reactivated** during sleep or pauses in behavior. 
+![]({{ site.url }}{{ site.baseurl }}/images/replaygif.gif){: style="width: 250px; float: left; margin: 0px  10px"} **Hippocampal Replay** To be stored as memory, such experience must be consolidated - stabilized in the hippocampus as well as distributed throughout the brain. One neural mechanism of consolidation is called hippocampal replay, when the neural ensemble corresponding to an experience is rapidly **reactivated** during sleep or pauses in behavior. 
 
-O
+
 
 **Josephson STM.** Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
 We have used atomic-resolution Josephson scanning tunneling microscopy to reveal a strongly inhomogeneous superfluid in the iron-based superconductor FeTe0.55Se0.45. The results and their implications are published in Nature.
