@@ -8,8 +8,12 @@ permalink: /research/
 
 # Research
 
-**Our overarching goal is to understand the neural mechanisms of memory, how they break down in the advanced age and neurodegenerative disease, and develop novel interventional approaches to prevent such decline.**
-![]({{ site.url }}{{ site.baseurl }}/images/placecells.gif){: style="width: 300px; float: right; margin: 10px  0px"}  To do this, we simultaneously record hundreds of neurons in the hippocampus of rats as they learn and perform complex memory-dependent tasks. Many neurons in the hippocampus are sensitive to spatial location, and these "place cells" fire in specific locations in space, as the movie to the right shows (credit: Tom Davidson). This neural activity represents the spatial aspect of the experience that the animal is having. 
+**Our overarching goal is to understand how the neural mechanisms of memory break down in the advanced age and neurodegenerative disease and to develop novel interventional approaches to prevent such decline.** 
+
+| ![space-1.jpg]({{ site.url }}{{ site.baseurl }}/images/placecells.gif){: style="width: 400px; float: right"}| 
+|:--:| 
+| *Test caption* |
+To do this, we simultaneously record hundreds of neurons in the hippocampus of rats as they learn and perform complex memory-dependent tasks. Many neurons in the hippocampus are sensitive to spatial location, and these "place cells" fire in specific locations in space, as the movie to the right shows (credit: Tom Davidson). This neural activity represents the spatial aspect of the experience that the animal is having. 
 
 However, hippocampal neural activity doesn't **always** correspond to a subject's current position. Instead, the neural representation of position can briefly represent other locations - such as where the subject is headed, distant parts of an environment, or even other environments entirely. This "mental simulation" of previously experienced locations is thought to be critical for memory consolidation as well as memory-guided decision-making.  But what happens to "mental simulations" during cognitive decline? 
 
