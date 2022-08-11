@@ -19,7 +19,7 @@ permalink: /resources/
 
 
 ### Career
-I strongly believe in sharing materials to make the "hidden curriculum" of academia more transparent. You'll have to request access, but it will be rapidly granted! 
+I believe in sharing materials to make academia more fair & transparent. You'll have to request access, but it will be rapidly granted! 
 
 **BRAIN Initiative K99/R00 (2019)** [ Application materials, rebuttal, progress report, extension request](https://drive.google.com/drive/folders/1R5Pl7TitkIa5HdQH0LBTnCnkosFIC1n0?usp=sharing) 
 
