@@ -1,4 +1,4 @@
-<div id="homeid" class="col-sm-10">
+<div id="homeid" class="col-sm-9">
 
 # Welcome to the Gillespie lab! 
 
@@ -58,6 +58,6 @@ We are grateful for funding from the University of Washington, the NIH BRAIN Ini
 
  </div>
 
-<div id="newsid" class="col-sm-4" style="background-color:rgba(0, 0, 0, 0.0470588)">
+<div id="newsid" class="col-sm-3" style="background-color:rgba(0, 0, 0, 0.0470588)">
     {% include news.html %}
 </div>
