@@ -10,7 +10,7 @@ permalink: /research/
 
 **Our overarching goal is to understand how the neural mechanisms of memory break down in the advanced age and neurodegenerative disease and to develop novel interventional approaches to prevent such decline.**  
 
-![]({{ site.url }}{{ site.baseurl }}/images/placecells.gif){: style="width: 450px; float: right; margin: 0px  0px" }
+![]({{ site.url }}{{ site.baseurl }}/images/placecells.gif){: style="width: 450px; float: right; margin: 0px  10px" }
 
 We simultaneously record hundreds of neurons in the hippocampus of rats as they learn and perform complex memory-dependent tasks. Many neurons in the hippocampus are sensitive to spatial location, and these "place cells" fire in specific locations in space, as the movie to the right shows (credit: Tom Davidson). Each putative single neuron is represented by a different color, and emits spikes as the animal (head position circled in green) passes through the neuron's "place field" as it completes a u-shaped trajectory. Collectively, this neural activity represents the spatial aspect of the experience that the animal is having. 
 

@@ -1,4 +1,4 @@
-<div id="homeid" class="col-sm-8">
+<div id="homeid" class="col-sm-10">
 
 # Welcome to the Gillespie lab! 
 
