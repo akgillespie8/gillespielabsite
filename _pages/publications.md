@@ -59,5 +59,7 @@ permalink: /publications/
 
 {% endfor %}
 
+Check [Google Scholar](https://scholar.google.com/citations?user=phH5LksAAAAJ&hl=en&oi=ao) for the most complete and up-to-date list!
+
 ### Patents
 <em>Gillespie AK, Frank LM</em><br />Neurofeedback Training to Promote Sharp-wave Ripples<br /> U.S. Patent Application No. 62/887,875 (2019)

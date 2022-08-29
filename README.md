@@ -3,7 +3,7 @@
 # Welcome to the Gillespie lab! 
 
 
-We are a research group at the [University of Washington](https://www.washington.edu/) focused on using hippocampal spatial representations as a window into cognitive decline during aging and neurodegenerative disease. 
+**We are a research group at the [University of Washington](https://www.washington.edu/) focused on using hippocampal spatial representations as a window into cognitive decline during aging and neurodegenerative disease.** 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
