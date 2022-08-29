@@ -15,6 +15,10 @@ permalink: /resources/
 
 [NWB dataset from Gillespie et al, 2021](https://dandiarchive.org/dandiset/000115/0.210914.1732) on the DANDI Archive 
 
+**Experimental Resources**
+
+[Drive building tutorial series](https://youtu.be/2REESUK5LKs)
+
 **Recommended Reading** [ to get into the hippocampal spatial representations field]({{ site.url }}{{ site.baseurl }}/reading) 
 
 
