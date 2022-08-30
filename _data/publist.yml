@@ -10,7 +10,7 @@
 - title: "Hippocampal replay reflects specific past experiences rather than a plan for subsequent choice"
   image: sungodrat.png
   description: Hippocampal replay has frequently been hypothesized to subserve planning purposes. We show that in a well-learned spatial memory task, replay content does not overrepresent the upcoming choice of the animal, but instead is biased towards previous goal locations. This suggests a role for replay in memory maintentance rather than directly planning subsequent choice.
-  authors: Gillespie AK, Astudillo Maya DA, Denovellis EL, Liu DF, Kastner DB, Coulter ME, Roumis DK, Eden UT, Frank LM
+  authors: "**Gillespie AK**, Astudillo Maya DA, Denovellis EL, Liu DF, Kastner DB, Coulter ME, Roumis DK, Eden UT, Frank LM"
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0896627321005730?via%3Dihub
     display: Neuron 109(19):3149-3163 (2021)
@@ -20,7 +20,7 @@
 - title: "Hippocampal replay of experience at real-world speeds. "
   image: statespace.png
   description: Using a state-space model to formalize how spatial representations can evolve within replay events, we describe a variety of replay types (stationary, continuous, and fragmented) as well as a statistical method to evaluate our confidence in these representations.
-  authors: Denovellis EL, Gillespie AK, Coulter ME, Sosa M, Chung JE, Eden UT, Frank LM
+  authors: Denovellis EL, **Gillespie AK**, Coulter ME, Sosa M, Chung JE, Eden UT, Frank LM
   link:
     url: https://elifesciences.org/articles/64505
     display: eLife, 10:e64505 (2021)
@@ -29,7 +29,7 @@
 - title: "Early Hippocampal Sharp-Wave Ripple Deficits Predict Later Learning and Memory Impairments in an Alzheimer's Disease Mouse Model"
   image: predicts.jpg
   description: By recording from apoE3 and apoe4-KI mice over long time periods, we discovered that some changes in SWR features, such as slow gamma power, were predictive of later behavioral impairment. This finding supports the use of patterns of hippocampal activity, such as sharp wave ripples, and biomarkers for neurodegenerative disease processes.
-  authors: Jones EA, Gillespie AK, Yoon SY, Frank LM, Huang Y
+  authors: Jones EA, **Gillespie AK**, Yoon SY, Frank LM, Huang Y
   link:
     url: https://www.sciencedirect.com/science/article/pii/S2211124719313701?via%3Dihub
     display: Cell Reports, 29(8):2123-2133 (2019)
@@ -48,7 +48,7 @@
 - title: "Efficient Decoding of Multidimensional Signals from Population Spiking Activity Using a Gaussian Mixture Particle Filter"
   image: TBG_SL.png
   description: ""
-  authors: Yousefi A, Gillespie AK, Guidera JA, Karlsson MP, Frank LM, Eden UT
+  authors: Yousefi A, **Gillespie AK**, Guidera JA, Karlsson MP, Frank LM, Eden UT
   link:
     url: https://ieeexplore.ieee.org/document/8675312
     display:  IEEE Transactions in Biomedical Engineering (2018)
