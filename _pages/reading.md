@@ -10,11 +10,13 @@ permalink: /reading/
 
 Jeffrey, Grieves & Donnett, <a href="pdfs/jeffrey.pdf">Recording the spatial mapping cells</a>, 2018
 
+Sosa, Gillespie, & Frank, <a href="pdfs/sosa.pdf">Neural activity patterns underlying spatial coding in the hippocampus</a>, 2018
 
 **SWRs & replay**
 
 Findlay, Tononi, & Cirelli <a href="pdfs/findlay.pdf">The evolving view of replay and its functions</a>, 2021
 
+Todorova & Zugaro <a href="pdfs/todorova.pdf">Hippocampal ripples as a mode of communication with cortical and subcortical areas</a>, 2018
 
 **Theta sequences**
 
