@@ -9,7 +9,7 @@ permalink: /publications/
 
 ## Publications
 
-**Featured articles** (Scroll down for full publication list; all articles will be posted on bioRxiv!)
+**Featured articles** (Scroll down for more complete list or check [google scholar](https://scholar.google.com/citations?user=phH5LksAAAAJ&hl=en&oi=ao); all articles will be posted on bioRxiv!)
 
 
 {% assign number_printed = 0 %}
