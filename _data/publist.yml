@@ -9,14 +9,14 @@
 
 - title: "Hippocampal replay reflects specific past experiences rather than a plan for subsequent choice"
   image: sungodrat.png
-  description: Hippocampal replay has frequently be hypothesized to subserve planning purposes. We show here that in a well-learned spatial memory task, replay content does not tend to represent the upcoming choice of the animal, but instead is biased towards representing previous goal locations. This suggests a role for memory maintentance and updating rather than in directly planning subsequent choice.
+  description: Hippocampal replay has frequently been hypothesized to subserve planning purposes. We show that in a well-learned spatial memory task, replay content does not overrepresent the upcoming choice of the animal, but instead is biased towards previous goal locations. This suggests a role for replay in memory maintentance rather than directly planning subsequent choice.
   authors: Gillespie AK, Astudillo Maya DA, Denovellis EL, Liu DF, Kastner DB, Coulter ME, Roumis DK, Eden UT, Frank LM
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0896627321005730?via%3Dihub
     display: Neuron 109(19):3149-3163 (2021)
   highlight: 1
-  news1:   <a style="color:#FF0000" href="https://www.sciencedirect.com/science/article/pii/S0896627321006784?via%3Dihub">Previewed by Kamran Diba</a>
-  news2: Also see this great write-up in the [Simons Foundation newsletter](https://www.simonsfoundation.org/2021/11/30/hippocampal-replay-reflection-on-the-past-or-planning-for-the-future/)
+  news1: <a href="https://www.sciencedirect.com/science/article/pii/S0896627321006784?via%3Dihub">Preview by Kamran Diba</a> and highlighted by the [Simons Foundation](https://www.simonsfoundation.org/2021/11/30/hippocampal-replay-reflection-on-the-past-or-planning-for-the-future/)
+  news2: 
 
 - title: "Hippocampal replay of experience at real-world speeds. "
   image: statespace.png

@@ -19,7 +19,7 @@ permalink: /resources/
 
 [Drive building tutorial series](https://youtu.be/2REESUK5LKs)
 
-**Recommended Reading** [ to get into the hippocampal spatial representations field]({{ site.url }}{{ site.baseurl }}/reading) 
+[Recommended Reading]({{ site.url }}{{ site.baseurl }}/reading) to get into the hippocampal spatial representations field
 
 
 ### Career
@@ -29,6 +29,7 @@ I believe in sharing materials to make academia more fair & transparent. You'll 
 
 **Faculty Applications (2021)** [ Anna's reflections on the academic job market ](https://drive.google.com/file/d/1iWgXoqqlHOeQYzKMSI176kF-W-DkRaJL/view?usp=sharing) ~ [ Application materials ](https://drive.google.com/drive/folders/1NO-0TC0NtO63ACdisLsQnGTT80trS1PL?usp=sharing) 
 
+Johns Hopkins lists of [funding opportunities](https://research.jhu.edu/rdt/funding-opportunities/) for undergrads, grad students, postdocs, & ECRs
 
 ### UW Resources 
 
