@@ -38,7 +38,7 @@
 - title: "Apolipoprotein E4 Causes Age-Dependent Disruption of Slow Gamma Oscillations During Hippocampal Sharp-wave Ripples"
   image: e4slowgamma.jpg
   description: This study was the first to characterize abnormalities in hippocampal sharp-wave ripples in apoe4-KI mice. We found that apoE4 mice showed reduced rates of SWRs as well as compromised SWR-associated slow gamma oscillations. Removing pathogenic apoE4 from hippocampal interneurons, a manipulation which prevents cognitive impairment, rescued the slow gamma deficit.
-  authors: Gillespie AK, Jones EA, Lin YH, Karlsson MP, Kay K, Yoon SY, Tong LM, Nova P, Carr JS, Frank LM, Huang Y
+  authors: "**Gillespie AK**, Jones EA, Lin YH, Karlsson MP, Kay K, Yoon SY, Tong LM, Nova P, Carr JS, Frank LM, Huang Y"
   link:
     url: https://www.sciencedirect.com/science/article/pii/S089662731630068X?via%3Dihub
     display:  Neuron 90(4)740-51 (2016)
