@@ -18,8 +18,6 @@ permalink: /research/
 
 To answer these questions, we simultaneously record from hundreds of neurons in the hippocampus of rats as they learn and perform complex memory-dependent tasks. Many neurons in the [hippocampus](https://en.wikipedia.org/wiki/Hippocampus) are [place cells,](https://en.wikipedia.org/wiki/Place_cell) which fire in specific locations as a subject moves through an environment. In the movie to the right (credit: Tom Davidson), putative single neurons are each represented by a different color, and emit spikes in their "place field" as a rat (head position circled in green) traverses a u-shaped path. The reliable relationship between hippocampal neural spiking activity and spatial location allows us to use neural activity to predict the animal's mental representation of position at any given time. 
 
-#  
-
 Strikingly, hippocampal neural activity doesn't **always** correspond to a subject's current position. Instead, the neural representation of position sometimes briefly represents other locations - such as where the subject is headed, reward locations, distant parts of an environment, or even other environments entirely. This "mental simulation" of previously-experienced locations is thought to be fundamental for many aspects of memory. So, what happens to place cell activity and "mental simulations" when memory is impaired? 
 
 
