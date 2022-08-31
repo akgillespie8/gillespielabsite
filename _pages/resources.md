@@ -1,7 +1,7 @@
 ---
 title: "Gillespie Lab - Resources"
 layout: textlay
-excerpt: "Gillespie Lab -- Resources"
+excerpt: "Gillespie Lab Resources"
 sitemap: false
 permalink: /resources/
 ---
