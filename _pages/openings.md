@@ -10,7 +10,7 @@ permalink: /vacancies
 
 ### We are in the process of building our team! Several positions are currently open.
 
-**Postdocs:** Position open starting January 2023; official posting coming soon! 
+**Postdocs:** Position open starting January 2023; official posting [here](https://jobrxiv.org/job/gillespie-lab-at-the-university-of-washington-27778-postdoctoral-fellowship-hippocampal-spatial-representations-in-aging-and-alzheimers-disease/)! **Applications due sept 28**
 
 **Grad Students:** Our lab will be affiliated with the Neuroscience graduate program and the M3D graduate program. We will likely be accepting rotation students starting Summer 2023.
 
