@@ -8,9 +8,9 @@ permalink: /reading/
 
 **Hippocampal recordings**
 
-Jeffrey, Grieves & Donnett, <a href="pdfs/jeffrey.pdf">Recording the spatial mapping cells</a>, 2018
+Jeffrey, Grieves & Donnett, <a href="{{ site.url }}{{ site.baseurl }}/pdfs/jeffrey.pdf">Recording the spatial mapping cells</a>, 2018
 
-Sosa, Gillespie, & Frank, <a href="pdfs/sosa.pdf">Neural activity patterns underlying spatial coding in the hippocampus</a>, 2018
+Sosa, Gillespie, & Frank, <a href="{{ site.url }}{{ site.baseurl }}/pdfs/sosa.pdf">Neural activity patterns underlying spatial coding in the hippocampus</a>, 2018
 
 **SWRs & replay**
 
