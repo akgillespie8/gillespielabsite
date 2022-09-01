@@ -14,9 +14,9 @@ Sosa, Gillespie, & Frank, <a href="{{ site.url }}{{ site.baseurl }}/pdfs/sosa.pd
 
 **SWRs & replay**
 
-Findlay, Tononi, & Cirelli <a href="pdfs/findlay.pdf">The evolving view of replay and its functions</a>, 2021
+Findlay, Tononi, & Cirelli <a href="{{ site.url }}{{ site.baseurl }}/pdfs/findlay.pdf">The evolving view of replay and its functions</a>, 2021
 
-Todorova & Zugaro <a href="pdfs/todorova.pdf">Hippocampal ripples as a mode of communication with cortical and subcortical areas</a>, 2018
+Todorova & Zugaro <a href="{{ site.url }}{{ site.baseurl }}/pdfs/todorova.pdf">Hippocampal ripples as a mode of communication with cortical and subcortical areas</a>, 2018
 
 **Theta sequences**
 
@@ -25,13 +25,13 @@ Kay et al, <a href="/pdfs/kay.pdf">Sub-second cycling between representations of
 
 **SWRs in aging & disease**
 
-Sanchez-Aguilera & Quintanilla, <a href="pdfs/sanchez.pdf">SWRs in Alzheimer's Disease</a>, 2021
+Sanchez-Aguilera & Quintanilla, <a href="/pdfs/sanchez.pdf">SWRs in Alzheimer's Disease</a>, 2021
 
 
 **For when science feels impossible**
 
-Chambliss, <a href="pdfs/chambliss.pdf">The mundanity of excellence</a>, 1989
+Chambliss, <a href="/pdfs/chambliss.pdf">The mundanity of excellence</a>, 1989
 
-Schwartz, <a href="pdfs/schwartz.pdf">The importance of stupidity in scientific research</a>, 2008
+Schwartz, <a href="/pdfs/schwartz.pdf">The importance of stupidity in scientific research</a>, 2008
 
 
