@@ -27,7 +27,7 @@ I believe in sharing materials to make academia more fair & transparent. You'll 
 
 **BRAIN Initiative K99/R00 (2019)** [ Application materials, rebuttal, progress report, extension request](https://drive.google.com/drive/folders/1R5Pl7TitkIa5HdQH0LBTnCnkosFIC1n0?usp=sharing) 
 
-**Faculty Applications (2021)** <a href="pdfs/gillespie.pdf">Anna's reflections on the academic job market</a> ~ [ Application materials ](https://drive.google.com/drive/folders/1NO-0TC0NtO63ACdisLsQnGTT80trS1PL?usp=sharing) 
+**Faculty Applications (2021)** [Anna's reflections on the academic job market]({{ site.url }}{{ site.baseurl }}/pdfs/gillespie.pdf") ~ [ Application materials ](https://drive.google.com/drive/folders/1NO-0TC0NtO63ACdisLsQnGTT80trS1PL?usp=sharing) 
 
 Johns Hopkins lists of [funding opportunities](https://research.jhu.edu/rdt/funding-opportunities/) for undergrads, grad students, postdocs, & ECRs
 
