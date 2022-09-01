@@ -14,7 +14,7 @@ permalink: /vacancies
 
 **Grad Students:** Our lab will be affiliated with the Neuroscience graduate program and the M3D graduate program. We will likely be accepting rotation students starting Summer 2023.
 
-**Research Technicians:** Position open starting January 2023; official posting coming soon!
+**Research Technicians:** Position open starting January 2023; official posting [here](https://jobrxiv.org/job/gillespie-lab-at-the-university-of-washington-27778-research-assistant-lab-manager-in-systems-neuroscience-lab/)! **Applications due sept 28**
 
 **Undergrads:** No positions open yet, but possibly in Fall 2023. 
 
