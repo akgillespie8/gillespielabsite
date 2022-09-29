@@ -34,7 +34,11 @@ Strikingly, hippocampal neural activity doesn't **always** correspond to a subje
 
  - How does replay content relate to behavior in aged animals during task learning and task performance?
 
- - Do aging and neurodegenerative disease affect spatial representations in different ways?
+ - Do aging and Alzheimer's disease affect spatial representations in different ways?
+
+ - Do males and females show distinct changes in spatial representations with age?
+
+ - Does aging have differential effects on awake and sleep replay?
 
 
 # Key approaches
