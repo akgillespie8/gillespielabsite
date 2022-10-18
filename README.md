@@ -22,7 +22,7 @@ We are a research group at the [University of Washington](https://www.washington
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/histology2.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tets2.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tets2.jpg" alt="Slide 4" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sungodrat2.png" alt="Slide 5" />
