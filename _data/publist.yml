@@ -1,7 +1,7 @@
 - title: "Neurofeedback training can modulate task-relevant memory replay in rats"
   image: neurofeedback.png
   description: "Our neurofeedback training paradigm couples online detection of SWRs with rapid positive feedback (food reward). The training paradigm dramatically increases SWR rate during the targeted interval, and these SWRs correspond to high-quality replay events with flexible, task relevant content."
-  authors: **Gillespie AK, Astudillo Maya DA, Denovellis EL, Desse S, Frank LM
+  authors: "**Gillespie AK**, Astudillo Maya DA, Denovellis EL, Desse S, Frank LM"
   link:
     url: https://www.biorxiv.org/content/10.1101/2022.10.13.512183v1
     display: bioRxiv (2022)
