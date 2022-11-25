@@ -3,11 +3,22 @@
   info: Assistant Professor, starting Jan 2023
   email: annagill (at) uw.edu
   number_educ: 5
-  education1: Postdoc in <a href="https://franklab.ucsf.edu/">Loren Frank's lab</a> at UCSF
-  education2: PhD in <a href="https://gladstone.org/people/yadong-huang">Yadong Huang's</a> lab at the Gladstone Institute of Neurological Disease
-  education3: BS from Stanford in Cell&Molecular Biology 
+  education1: [more about Anna]({{site.url}}{{ site.baseurl }}/annainfo)
+  education2: Postdoc in <a href="https://franklab.ucsf.edu/">Loren Frank's lab</a> at UCSF
+  education3: PhD in <a href="https://gladstone.org/people/yadong-huang">Yadong Huang's</a> lab at the Gladstone Institute of Neurological Disease 
   education4: Former <a href="https://www.simonsfoundation.org/people/anna-gillespie/">Simons Collaboration on the Global Brain</a> postdoc fellow 
   education5: BRAIN Initiative K99/R00 recipient 
+
+
+- name: Ian O'Leary
+  photo: ian.jpg
+  info: Lab Manager, starting Jan 2023
+  email: cioleary (at) uw.edu
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
 
 
 - name: "This could be you!"
