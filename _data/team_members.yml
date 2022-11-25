@@ -3,7 +3,7 @@
   info: Assistant Professor, starting Jan 2023
   email: annagill (at) uw.edu
   number_educ: 5
-  education1: link
+  education1: <a href="{{site.url}}{{site.baseurl}}/annainfo">More about Anna</a>
   education2: Postdoc in <a href="https://franklab.ucsf.edu/">Loren Frank's lab</a> at UCSF
   education3: PhD in <a href="https://gladstone.org/people/yadong-huang">Yadong Huang's</a> lab at the Gladstone Institute of Neurological Disease 
   education4: Former <a href="https://www.simonsfoundation.org/people/anna-gillespie/">Simons Collaboration on the Global Brain</a> postdoc fellow 
