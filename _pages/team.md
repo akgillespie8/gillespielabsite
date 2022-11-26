@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new grad students, postdocs, and research technicians to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies)**!**
+ **We are looking for new grad students and postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies)**!**
 
 
 {% assign number_printed = 0 %}
