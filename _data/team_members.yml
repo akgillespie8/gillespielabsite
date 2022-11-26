@@ -3,7 +3,7 @@
   info: Assistant Professor, starting Jan 2023
   email: annagill (at) uw.edu
   number_educ: 2
-  education1: "<a href="{{ site.url }}{{ site.baseurl }}/annainfo/">More about Anna</a>"
+  education1: link
   education2: <a href="{{ site.url }}{{ site.baseurl }}/pdfs/nov2022_akgCV.pdf">Curriculum Vitae</a>
 
 
