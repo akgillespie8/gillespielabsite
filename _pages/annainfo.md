@@ -3,7 +3,7 @@ title: "Gillespie Lab - Anna"
 layout: textlay
 excerpt: "Gillespie Lab -- Anna"
 sitemap: false
-permalink: /anna/
+permalink: /annainfo/
 ---
 
 # Dr. Anna Gillespie
