@@ -4,7 +4,7 @@
   email: annagill (at) uw.edu
   number_educ: 2
   education1: link
-  education2: <a href="{{ site.url }}{{ site.baseurl }}/pdfs/nov2022_akgCV.pdf">Curriculum Vitae</a>
+  education2: <a href="www.gillespie-lab.com/pdfs/nov2022_akgCV.pdf">Curriculum Vitae</a>
 
 
 - name: Ian O'Leary
@@ -13,7 +13,7 @@
   email: cioleary (at) uw.edu
   number_educ: 2
   education1: <a href="{{site.url}}{{site.baseurl}}/ianinfo">More about Ian</a>
-  education2: "[More about Ian]({{ site.url }}{{ site.baseurl }}/ianinfo)"
+  education2: "[More about Ian](www.gillespie-lab.come/ianinfo)"
   education3:
   education4:
 
