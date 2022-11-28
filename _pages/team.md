@@ -31,7 +31,7 @@ permalink: /team/
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
+  <li> [Learn more]({{ site.url }}{{ site.baseurl }}{{ member.education1 }}) </li>
   <li> {{ member.education2 }} </li>
   {% endif %}
 
