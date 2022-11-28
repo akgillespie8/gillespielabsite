@@ -13,7 +13,7 @@
   email: cioleary (at) uw.edu
   number_educ: 2
   education1: <a href="{{ site.url }}{{ site.baseurl }}/ianinfo">More about Ian</a>
-  education2: [More about Ian]({{ site.url }}{{ site.baseurl }}/ianinfo)
+  education2: "[More about Ian]({{ site.url }}{{ site.baseurl }}/ianinfo)"
   education3:
   education4:
 
