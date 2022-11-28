@@ -15,6 +15,7 @@ permalink: /annainfo/
 * Postdoc in Loren Frank's lab at UCSF
 * Former [Simons Collaboration on the Global Brain](https://www.simonsfoundation.org/people/anna-gillespie/) fellow 
 * Brain Initiative K99/R00 recipient
+* [Anna's CV]({{ site.url }}{{ site.baseurl }}/pdfs/nov2022_akgCV.pdf)
 
 
 I'm extremely happy to be spending my work days puzzling over the inner workings of the hippocampus and constantly learning how to be a better scientist and mentor. In the evenings, I'm probably focused on food (finding new fun places to eat or recipes to loosely follow) or fussing over my plant babies. I try to get outside as often as possible to  hike or bike - I have so many places around Seattle to explore! 
