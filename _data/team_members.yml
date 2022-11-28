@@ -1,7 +1,8 @@
 - name: Dr. Anna K. Gillespie
   photo: Anna1.jpg
   info: Assistant Professor, starting Jan 2023
-  email: annagill (at) uw.edu [More about Anna](https://akgillespie8.github.io/gillespielabsite/annainfo/)
+  email: annagill (at) uw.edu 
+  more: [More about Anna](https://akgillespie8.github.io/gillespielabsite/annainfo/)
   number_educ: 2
   education1: /annainfo/
   education2: <a href="https://gillespie-lab.com/pdfs/nov2022_akgCV.pdf">Curriculum Vitae</a>
@@ -11,9 +12,10 @@
   photo: ian1.jpg
   info: Lab Manager, starting Jan 2023
   email: cioleary (at) uw.edu
+  more: [More about Ian]({{ site.url }}{{ site.baseurl }}/ianinfo/)
   number_educ: 2
   education1: /ianinfo/
-  education2: "[More about Ian]({{ site.url }}{{ site.baseurl }}/ianinfo)"
+  education2: "[More about Ian](/ianinfo)"
   education3:
   education4:
 
