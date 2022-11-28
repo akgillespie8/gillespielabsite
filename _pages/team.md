@@ -27,7 +27,7 @@ permalink: /team/
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+  <li> {{ member.education1 | markdownify}} </li>
   {% endif %}
 
   {% if member.number_educ == 2 %}
