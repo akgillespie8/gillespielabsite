@@ -3,7 +3,7 @@
   info: Assistant Professor, starting Jan 2023
   email: annagill (at) uw.edu 
   more: [More about Anna](https://akgillespie8.github.io/gillespielabsite/annainfo/)
-  number_educ: 0
+  number_educ: 1
   education1: 
   education2:
 
@@ -13,7 +13,7 @@
   info: Lab Manager, starting Jan 2023
   email: cioleary (at) uw.edu
   more: [More about Ian](https://akgillespie8.github.io/gillespielabsite/ianinfo/)
-  number_educ: 0
+  number_educ: 1
   education1: 
   education2: 
   education3:
@@ -23,8 +23,8 @@
 - name: "This could be you!"
   photo: duckling.jpg
   info: See "Join us!" tab above for more info
-  more: ""
   email: ""
+  more: ""
   number_educ: 0
   education1:
   education2:
