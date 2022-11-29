@@ -23,6 +23,7 @@
 - name: "This could be you!"
   photo: duckling.jpg
   info: See "Join us!" tab above for more info
+  more: ""
   email: ""
   number_educ: 0
   education1:
