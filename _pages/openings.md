@@ -18,7 +18,7 @@ permalink: /vacancies
 Please get in touch with [Anna]({{ site.url }}{{ site.baseurl }}/team)! In your email, make sure to include: your CV, a brief description of your research background/experience, and, most importantly, why you're interested in being part of **this** team, specifically!
 
 
-
+ 
 
 
 <!-- <figure>
