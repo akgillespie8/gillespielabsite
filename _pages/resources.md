@@ -11,6 +11,10 @@ permalink: /resources/
 
 [Python package for clustered and clusterless decoding](https://github.com/Eden-Kramer-Lab/replay_trajectory_classification), from E. Denovellis
 
+[Statistics](https://seeing-theory.brown.edu/probability-distributions/index.html
+) | [Python for the practicing neuroscientist](https://elifesciences.org/labs/f779833b/python-for-the-practicing-neuroscientist-an-online-educational-resource) | [The good research code handbook](https://goodresearch.dev/
+) | [Data Science course](https://datascienceinpractice.github.io/docs/index.html) 
+
 **Shared datasets**
 
 [NWB dataset from Gillespie et al, 2021](https://dandiarchive.org/dandiset/000115/0.210914.1732) on the DANDI Archive 
@@ -21,6 +25,17 @@ permalink: /resources/
 
 [Recommended Reading]({{ site.url }}{{ site.baseurl }}/reading) to get into the hippocampal spatial representations field
 
+[Open Behavior](https://edspace.american.edu/openbehavior/), a collection of open source designs for behavioral experiments 
+
+**Other**
+
+[Best practices for requesting a letter of recommendation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010102)
+
+[How to use zotero(thread)](https://twitter.com/MushtaqBilalPhD/status/1562709453996060673?s=20&t=CDoQ3yCXolmCfCW8jNZ_rA)
+
+[How to write a critical review KINDLY (thread)](https://twitter.com/irisdyoung/status/1560390684489592832?s=20&t=dmU98G-nVgVrVD-ZblzpgA)
+
+[Editing as an act of caring](https://scientistseessquirrel.wordpress.com/2020/03/03/in-praise-of-the-red-pen-editing-as-an-act-of-caring/)
 
 ### Career
 I believe in sharing materials to make academia more fair & transparent. You'll have to request access, but it will be rapidly granted! 
@@ -33,5 +48,9 @@ Johns Hopkins lists of [funding opportunities](https://research.jhu.edu/rdt/fund
 
 ### UW Resources 
 
-... coming soon...
+[The Mill](https://hfs.uw.edu/The-Mill/Home), an awesome maker space free for students and cheap for UW affiliates. Great for laser cutting, 3D printing, CNC, etc
+
+[SafeCampus](https://www.washington.edu/safecampus/), an anonymous hotline to discuss safety/wellbeing concerns for yourself or others
+
+[UW Allies](https://sites.uw.edu/uwallies/), support for grad students and postdocs in basic science labs facing difficult situations 
 
