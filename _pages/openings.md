@@ -10,9 +10,7 @@ permalink: /vacancies
 
 ### We are in the process of building our team! Several positions are currently open.
 
-**Postdocs:** Position open starting January 2023; official posting [here](https://neurojobs.sfn.org/job/35430/postdoctoral-scholar/)! 
-
-**Grad Students:** Our lab will be affiliated with the Neuroscience graduate program and the M3D graduate program. We will likely be accepting rotation students starting Summer or Fall 2023.
+**Grad Students:** Our lab will be affiliated with the Neuroscience graduate program and the M3D graduate program. We will be accepting rotation students starting Fall 2023.
 
 **Undergrads:** No positions open yet, but possibly in Fall 2023. 
 
