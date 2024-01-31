@@ -1,6 +1,6 @@
 - name: <a href="https://www.gillespie-lab.com/annainfo/">Dr. Anna K. Gillespie</a>
   photo: Anna1.jpg
-  info: Assistant Professor, starting Jan 2023
+  info: Assistant Professor
   email: annagill (at) uw.edu 
   number_educ: 0
   education1: 
@@ -9,8 +9,18 @@
 
 - name: <a href="https://www.gillespie-lab.com/ianinfo/">Ian O'Leary</a>
   photo: ian1.jpg
-  info: Lab Manager, starting Jan 2023
+  info: Lab Manager
   email: cioleary (at) uw.edu
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:
+  education4:
+
+- name: Molly Park
+  photo: molly.jpg
+  info: Undergraduate Student
+  email: 
   number_educ: 0
   education1: 
   education2: 

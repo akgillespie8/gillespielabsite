@@ -44,6 +44,8 @@ I believe in sharing materials to make academia more fair & transparent. You'll 
 
 **Faculty Applications (2021)** [Anna's reflections on the academic job market]({{ site.url }}{{ site.baseurl }}/pdfs/gillespie.pdf) ~ [ Application materials ](https://drive.google.com/drive/folders/1NO-0TC0NtO63ACdisLsQnGTT80trS1PL?usp=sharing) 
 
+**R00 Transition Application** Don't underestimate how much time this will take - both in preparing it and having it processed - start several months before your faculty appointment date. Link coming soon! email Anna if you need it. 
+
 Johns Hopkins lists of [funding opportunities](https://research.jhu.edu/rdt/funding-opportunities/) for undergrads, grad students, postdocs, & ECRs (early career researchers)
 
 [List of neuro-related postdoc seminar series](https://docs.google.com/spreadsheets/d/1CBvj4aUEBMDN3KFhCTv0GxAMJ0RbJhsPx0woa4YlgXs/edit?usp=sharing) - great to apply for these as a senior postdoc before/during faculty application season *please add any that you know of!*
