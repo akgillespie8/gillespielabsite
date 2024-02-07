@@ -51,6 +51,8 @@ Johns Hopkins lists of [funding opportunities](https://research.jhu.edu/rdt/fund
 
 [List of neuro-related postdoc seminar series](https://docs.google.com/spreadsheets/d/1CBvj4aUEBMDN3KFhCTv0GxAMJ0RbJhsPx0woa4YlgXs/edit?usp=sharing) - great to apply for these as a senior postdoc before/during faculty application season *please add any that you know of!*
 
+[List of neuro data analysis short courses/summer schools](https://docs.google.com/spreadsheets/d/1nezjxkU8kGsA9MUI3Eph60s303VwfQLqMSNrSnnRSzk/edit#gid=1015366364) curated by Natalie Schaworonkow
+
 ### UW Resources 
 
 [The Mill](https://hfs.uw.edu/The-Mill/Home), an awesome maker space free for students and cheap for UW affiliates. Great for laser cutting, 3D printing, CNC, etc
