@@ -44,7 +44,8 @@ I believe in sharing materials to make academia more fair & transparent. You'll 
 
 **Faculty Applications (2021)** [Anna's reflections on the academic job market]({{ site.url }}{{ site.baseurl }}/pdfs/gillespie.pdf) ~ [ Application materials ](https://drive.google.com/drive/folders/1NO-0TC0NtO63ACdisLsQnGTT80trS1PL?usp=sharing) 
 
-**R00 Transition Application** Don't underestimate how much time this will take - both in preparing it and having it processed - start several months before your faculty appointment date. Link coming soon! email Anna if you need it. 
+**R00 Transition Application** [ Application materials](https://drive.google.com/drive/folders/1q7S0Gsc2V5S4A7y_h13mQS33W-iTAgmE?usp=sharing) 
+Don't underestimate how much time this will take - both in preparing it and having it processed - start several months (>3) before your faculty appointment date! 
 
 Johns Hopkins lists of [funding opportunities](https://research.jhu.edu/rdt/funding-opportunities/) for undergrads, grad students, postdocs, & ECRs (early career researchers)
 
