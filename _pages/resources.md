@@ -19,6 +19,8 @@ permalink: /resources/
 
 [NWB dataset from Gillespie et al, 2021](https://dandiarchive.org/dandiset/000115/0.210914.1732) on the DANDI Archive 
 
+[NWB dataset from Gillespie et al, 2024](https://dandiarchive.org/dandiset/000629) on the DANDI Archive 
+
 **Experimental Resources**
 
 [Drive building tutorial series](https://youtu.be/2REESUK5LKs)
@@ -44,8 +46,8 @@ I believe in sharing materials to make academia more fair & transparent. You'll 
 
 **Faculty Applications (2021)** [Anna's reflections on the academic job market]({{ site.url }}{{ site.baseurl }}/pdfs/gillespie.pdf) ~ [ Application materials ](https://drive.google.com/drive/folders/1NO-0TC0NtO63ACdisLsQnGTT80trS1PL?usp=sharing) 
 
-**R00 Transition Application** [ Application materials](https://drive.google.com/drive/folders/1q7S0Gsc2V5S4A7y_h13mQS33W-iTAgmE?usp=sharing) 
-Don't underestimate how much time this will take - start several months (>3) before your faculty appointment date! 
+**R00 Transition Application (2022)** [ Application materials](https://drive.google.com/drive/folders/1q7S0Gsc2V5S4A7y_h13mQS33W-iTAgmE?usp=sharing) 
+Don't underestimate how much time this will take - start >3m before your start date! 
 
 Johns Hopkins lists of [funding opportunities](https://research.jhu.edu/rdt/funding-opportunities/) for undergrads, grad students, postdocs, & ECRs (early career researchers)
 
