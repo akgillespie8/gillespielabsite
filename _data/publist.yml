@@ -3,8 +3,8 @@
   description: "Our neurofeedback training paradigm couples online detection of SWRs with rapid positive feedback (food reward). The training paradigm dramatically increases SWR rate during the targeted interval, and these SWRs correspond to high-quality replay events with flexible, task relevant content."
   authors: "**Gillespie AK**, Astudillo Maya DA, Denovellis EL, Desse S, Frank LM"
   link:
-    url: https://www.biorxiv.org/content/10.1101/2022.10.13.512183v1
-    display: bioRxiv (2022)
+    url: https://elifesciences.org/articles/90944
+    display: eLife (2024)
   highlight: 1
 
 - title: "Dynamic Synchronization between Hippocampal Spatial Representations and the Stepping Rhythm"
@@ -12,8 +12,8 @@
   description: ""
   authors: Joshi A, Denovellis EL, Mankili A, Meneksedag Y, Davidson TJ, **Gillespie AK**, Guidera JA, Roumis DK, Frank LM
   link:
-    url: https://www.biorxiv.org/content/10.1101/2022.02.23.481357v1
-    display: bioRxiv (2022)
+    url: https://www.nature.com/articles/s41586-023-05928-6
+    display: Nature (2023)
   highlight: 0
 
 - title: "Hippocampal replay reflects specific past experiences rather than a plan for subsequent choice"
