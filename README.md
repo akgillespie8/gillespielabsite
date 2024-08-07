@@ -51,10 +51,9 @@ To do this, we record the spiking activity of large ensembles of neurons from th
 We are grateful for funding from the University of Washington, the NIH BRAIN Initiative, the National Institute on Aging, and the [Simons Collaboration on Plasticity and the Aging Brain](https://www.simonsfoundation.org/collaborations/plasticity-and-the-aging-brain/projects).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UWlogo.png" style="width: 140px; margin: 20px  25px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nia.jpg" style="width: 140px; margin: 20px  25px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nia.jpg" style="width: 100px; margin: 20px  25px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/simons.png" style="width: 170px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EJK_logo_RGB.jpg" style="width: 170px; margin: 0px  380px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EJK_logo_RGB.jpg" style="width: 170px">
 </figure>
 
  </div>
