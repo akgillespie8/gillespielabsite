@@ -1,5 +1,5 @@
 - name: <a href="https://www.gillespie-lab.com/annainfo/">Dr. Anna K. Gillespie</a>
-  photo: Anna1.jpg
+  photo: anna_new.jpg
   info: Assistant Professor
   email: annagill (at) uw.edu 
   number_educ: 0
@@ -18,7 +18,7 @@
   education4:
 
 - name: Gabby Shvartsman
-  photo: gabby.jpg
+  photo: gabby_new.jpg
   info: Graduate Student
   email: 
   number_educ: 0
@@ -39,6 +39,16 @@
 
 - name: Molly Park
   photo: molly.jpg
+  info: Undergraduate Student
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:
+  education4:
+
+- name: Jason Tran
+  photo: jason.png
   info: Undergraduate Student
   email: 
   number_educ: 0

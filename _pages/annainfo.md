@@ -8,7 +8,7 @@ permalink: /annainfo/
 
 # Dr. Anna Gillespie
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Anna1.jpg){: style="width: 300px; float: right; margin: 0px  10px" }
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/anna_new.jpg){: style="width: 300px; float: right; margin: 0px  10px" }
 
 * B.S. in Cell and Molecular Biology from Stanford University
 * PhD in Biomedical Science from UCSF
