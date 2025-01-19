@@ -58,42 +58,43 @@ These were usually 20-30minute zoom meetings with the search committee. For abou
 
 *Preparation:* You’ll probably never have as much time to prep as you would like, so prioritize. I think it’s more important to have good answers about yourself and your work and less important to know all about them and try to cram in reading a bunch of websites/papers. For almost all of these interviews, I knew ahead of time who would be on the call. For one, I was sent the interview questions ahead of time. I always looked up the websites of the committee members to broadly know what kind of science they did (to the level of “studies AD/protein aggregation in flies”) but honestly I often forgot these details in the interviews and I didn’t do more digging than that. If there was someone who did work related to my own, I did more (like read at least the abstracts of their recent papers or have a question or two about their work prepared).  If you aren’t given details of whether they want a presentation from you (or if you want more info about format, content, duration, etc), it’s very reasonable to ask. 
 
-*Questions I got asked:*
-•	Always: some form of “tell us about your science”
-o	How did you get into science? 
-o	What has been your most exciting discovery? What is the significance of this work?
-o	What is your dream experiment?
-o	What key approaches will you use?
-o	What’s your vision for your lab? How will you implement it? 
-o	Where do you see yourself in 5/10/20 years?
-•	Always: essentially, why this department & who would you collab with? 
-o	What drew you to our department / What makes you excited about coming here? / How do you see yourself fitting in to our department?
-o	Who would you be interested in collaborating with?
-•	Often: some form of lab/ leadership strategy 
-o	Why is now the right time for you to apply?
-o	How do you want the department to support you? What resources will you need?
-o	How will you set yourself apart from your current PI?
-o	Where will you apply for funding?
-o	What does success look like to you? What characteristics are needed to achieve such success?
-o	Who will you hire first? What is the first experiment your team will do?
-o	How will you grow your lab and how big will it be? 
-o	Where do you see the field in 5-10 years?
-•	Often: teaching/mentorship
-o	What’s your mentoring philosophy/strategy? / What kind of PI would you like to be?
-o	How does diversity play into your research/mentoring/teaching? What DEI initiatives in this department/at this university would you be interested in participating in?
-o	What types of courses would you be interested in teaching?
-o	Tell us about a particularly rewarding teaching/mentoring experience that you had
+*Questions I got asked:* 
+
+- Always: some form of “tell us about your science”
+- How did you get into science? 
+- What has been your most exciting discovery? What is the significance of this work?
+- What is your dream experiment?
+- What key approaches will you use?
+- What’s your vision for your lab? How will you implement it? 
+- Where do you see yourself in 5/10/20 years?
+- Always: essentially, why this department & who would you collab with? 
+- What drew you to our department / What makes you excited about coming here? / How do you see yourself fitting in to our department?
+- Who would you be interested in collaborating with?
+- Often: some form of lab/ leadership strategy 
+- Why is now the right time for you to apply?
+- How do you want the department to support you? What resources will you need?
+- How will you set yourself apart from your current PI?
+- Where will you apply for funding?
+- What does success look like to you? What characteristics are needed to achieve such success?
+- Who will you hire first? What is the first experiment your team will do?
+- How will you grow your lab and how big will it be? 
+- Where do you see the field in 5-10 years?
+- Often: teaching/mentorship
+- What’s your mentoring philosophy/strategy? / What kind of PI would you like to be?
+- How does diversity play into your research/mentoring/teaching? What DEI initiatives in this department/at this university would you be interested in participating in?
+- What types of courses would you be interested in teaching?
+- Tell us about a particularly rewarding teaching/mentoring experience that you had
 
 *Questions I asked them* (you’ll always be given time for a couple, be ready with them)
-•	How do you support your faculty? How are new faculty mentored?
-•	What are you looking for a new faculty member to bring to your department?
-•	How are students/trainees in the department supported? 
-•	What is the community like? What types of events support a sense of community (seminar series, retreats, happy hours, etc)
-•	How do collaborations tend to form?
-•	What is expected of a new faculty member? What does success look like for a new faculty?
-•	What are the biggest changes the department has seen over the past few years and where do you see it going next?
-•	Which programs can faculty get students from and what types of skills/interests do they tend to come in with?
-•	What are the most common hurdles/struggles that new faculty encounter?
+- How do you support your faculty? How are new faculty mentored?
+- What are you looking for a new faculty member to bring to your department?
+- How are students/trainees in the department supported? 
+- What is the community like? What types of events support a sense of community (seminar series, retreats, happy hours, etc)
+- How do collaborations tend to form?
+- What is expected of a new faculty member? What does success look like for a new faculty?
+- What are the biggest changes the department has seen over the past few years and where do you see it going next?
+- Which programs can faculty get students from and what types of skills/interests do they tend to come in with?
+- What are the most common hurdles/struggles that new faculty encounter?
 
 ## Full interviews 
 
