@@ -6,7 +6,8 @@ sitemap: false
 permalink: /facultyjobmarket
 ---
 
-## Reflections, resources, and advice for those on the faculty job market
+# Reflections, resources, & advice for the faculty job market
+Jump to [Prep](#preparation), [Apps](#application-materials), [First round interviews](#first-round-interviews), [Full interviews](#full-interviews), [Offers & negotiating](#offers--negotiations), [Making the decision](#making-the-decision)
 
 Going through the job application was exhausting, stressful, and all-consuming, but I found it extremely useful to hear/read about the experiences of others. Clearly each person has a unique path through it, but I hope this document can provide just one more data point that can be useful to others. These are just my personal opinions and experiences, I’m no expert. 
 
@@ -20,7 +21,8 @@ Context for my job search experience:  I’m in the systems neuroscience field, 
 |First app deadline|First round interviews|Full interviews|Offers|Committed|
 |Mid-sept 2021|Dec-March|Jan-April|March-April|May 2022|
 
-### 1.	Leading up to the year on the job market
+## Preparation
+Leading up to the year on the job market
 
 •	Get your work published (or at least on bioRxiv). I had initially planned to go on the job market for the 2020-2021 cycle, but decided to hold off because I didn’t have a first author paper from my postdoc even on bioRxiv yet. It didn’t seem worth the time investment to try and apply without one. 
 
@@ -30,7 +32,7 @@ Context for my job search experience:  I’m in the systems neuroscience field, 
 
 •	Prepare to not have a lot of time to do science once app season starts. I found the application process to be almost a full time job. Because my experiments are time-sensitive and long (6 week time commitment of daily work), I could only get experiments done when I had the help of a technician, and was not able to do experiments when I did not have that option. This was because of the time I needed to spend prepping materials, practice, and for the interviews and travel itself. Thankfully, my PI was fully supportive of this allocation of my time. 
 
-### 2.	Preparing application materials
+## Application materials
 
 For the most part, all schools wanted the same main components: cover letter, CV, research statement, diversity statement, and teaching statement. Some had different length requirements (ie 2 vs 4 page research statement, 1 vs 2 page diversity statement) or required slightly different organization – but the content was always essentially the same. 
 
@@ -48,7 +50,7 @@ For the most part, all schools wanted the same main components: cover letter, CV
 
 *Diversity statements:* This was a useful resource/rubric from UCBerkeley
 
-### 3.	First round interviews (Zoom)
+## First round interviews
 
 These were usually 20-30minute zoom meetings with the search committee. For about half of them, I was asked to give a brief overview of my past work/research plan (5-15mins). I was usually given some clues as to the structure of the meeting beforehand. I always found these interviews somewhat unsatisfying and never really knew how they went – it’s such a short period of time! I didn’t send thank you follow-up emails after these zooms.
 
@@ -91,7 +93,7 @@ o	Tell us about a particularly rewarding teaching/mentoring experience that you 
 •	Which programs can faculty get students from and what types of skills/interests do they tend to come in with?
 •	What are the most common hurdles/struggles that new faculty encounter?
 
-### 4.	Full interviews (seminars, chalk talks, one-on-ones)
+## Full interviews 
 
 There was a range of formats across schools here, and covid played a big role.  Each interview usually took up two days. These ranged from: 
 •	No first round interview, straight to a zoom seminar and several 1:1 zoom interviews with faculty
@@ -112,7 +114,7 @@ Additional resources: UCSF has an example chalk talk here and gladstone has one 
 *Interview follow-ups*
 After the visit, I always sent thank you follow-up emails to the faculty members that I met with. These can be super short, but I tried to personalize them at least a little bit. Try to do this as soon as possible so that your memory of the conversation is still fresh and you can reference what you talked about. Thank folks for their time. Also thank the admin who arranged your schedule and logistics – it’s a lot of work! 
 
-### 5.	Offers & negotiations
+## Offers & negotiations
 
 My offers came by email or phone, and usually concluded with an invitation for a second visit to discuss details and examine potential lab space. Before this second visit, I was asked to prepare a startup budget. I also highly recommend preparing a wish list (see below).  Use your second visit to meet with people that YOU want to (you’re more in control now!), such as potential collaborators, core directors, etc. When it comes to touring lab space, take pictures of everything!! It can be very hard to remember details later on. 
 
@@ -124,7 +126,7 @@ My offers came by email or phone, and usually concluded with an invitation for a
 
 *Offer letters:* I had several experienced department chairs look at my offer letters to help me identify strengths/weaknesses, to make sure they covered all the important points, and to compare them. If you have a K99, make sure to also get your offer letters reviewed by your program officers at the NIH – they’ve seen a lot and may also have some useful feedback. It’s also important to get their approval to ensure smooth transition to the R00.
 
-### 6.	Making the decision
+## Making the decision
 
 Having multiple options to choose from was an immense privilege but also threw me into internal turmoil because it wasn’t an obvious choice! Every visit introduced me to awesome folks doing inspiring science who would have made stellar colleagues. Each department had unique opportunities and drawbacks. Each location/city also impacted my excitement about a place. A wise mentor told me “you will grieve every opportunity that you don’t take,” and I really did. It was helpful to hear that that’s normal! 
 
