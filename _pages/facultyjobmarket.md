@@ -7,7 +7,7 @@ permalink: /facultyjobmarket
 ---
 
 # Reflections, resources, & advice for the faculty job market
-Jump to [Prep](#preparation), [Apps](#application-materials), [First round interviews](#first-round-interviews), [Full interviews](#full-interviews), [Offers & negotiating](#offers--negotiations), [Making the decision](#making-the-decision)
+Jump to: [Early prep](#preparation), [Application materials](#application-materials), [First round interviews](#first-round-interviews), [Full interviews](#full-interviews), [Offers & negotiating](#offers--negotiations), [Making the decision](#making-the-decision)
 
 Going through the job application was exhausting, stressful, and all-consuming, but I found it extremely useful to hear/read about the experiences of others. Clearly each person has a unique path through it, but I hope this document can provide just one more data point that can be useful to others. These are just my personal opinions and experiences, I’m no expert. 
 
@@ -15,13 +15,18 @@ Highly recommended overall resources: Kara McKinley’s [write-ups](https://www.
 
 Context for my job search experience:  I’m in the systems neuroscience field, where (my sense of) the general expectation is one first author paper from phd and one from postdoc at minimum, and each tends to take a long time (5+ years). I was in year 6 of my postdoc. I did not have a CNS paper; I did have a Neuron paper that came out right before I started applying, and I definitely think that timing helped. I had received a K99, previous postdoc funding, and phd funding, and I’m coming from a well-known HHMI lab at a prestigious school. I had little teaching experience. I’m white, female, unmarried, no kids. I had the help of a technician for the first few months of my job market time.  Obviously, many of these factors will have impacted my experience and worked in my favor. 
 
-|   Apps submitted   |   First round interviews   |	Heard back with a “no” | Never heard back at all |	Second round interviews	| Offers |
-| :-------: | :-------: | :------: | :------: | :------: | :------: |
-| 37 |	14 | 10 |	13	| 5 |	3 |
+Apps submitted: 37
+First round interviews: 14
+Heard back with a “no”: 10
+Never heard back at all: 13
+Second round interviews: 5
+Offers: 3
 
-| First app deadline | First round interviews | Full interviews | Offers | Committed |
-| :---: | :---: | :---: | :---: | :---: |
-| Mid-sept 2021 | Dec-March | Jan-April | March-April | May 2022 |
+First app deadline: 
+First round interviews: Dec-March
+Full interviews: Jan-April
+Offers, negotiations: March-April
+Committed: May 2022 
 
 ## Preparation
 Leading up to the year on the job market
