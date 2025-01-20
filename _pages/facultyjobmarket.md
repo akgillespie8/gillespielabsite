@@ -15,18 +15,19 @@ Highly recommended overall resources: Kara McKinley’s [write-ups](https://www.
 
 Context for my job search experience:  I’m in the systems neuroscience field, where (my sense of) the general expectation is one first author paper from phd and one from postdoc at minimum, and each tends to take a long time (5+ years). I was in year 6 of my postdoc. I did not have a CNS paper; I did have a Neuron paper that came out right before I started applying, and I definitely think that timing helped. I had received a K99, previous postdoc funding, and phd funding, and I’m coming from a well-known HHMI lab at a prestigious school. I had little teaching experience. I’m white, female, unmarried, no kids. I had the help of a technician for the first few months of my job market time.  Obviously, many of these factors will have impacted my experience and worked in my favor. 
 
-Apps submitted: 37
-First round interviews: 14
-Heard back with a “no”: 10
-Never heard back at all: 13
-Second round interviews: 5
-Offers: 3
-
-First app deadline: 
-First round interviews: Dec-March
-Full interviews: Jan-April
-Offers, negotiations: March-April
-Committed: May 2022 
+Stats: 
+- Apps submitted: 37
+- First round interviews: 14
+- Heard back with a “no”: 10
+- Never heard back at all: 13
+- Second round interviews: 5
+- Offers: 3
+Dates:
+- First app deadline: mid Sept 2021
+- First round interviews: Dec-March
+- Full interviews: Jan-April
+- Offers, negotiations: March-April
+- Committed: May 2022 
 
 ## Preparation
 Leading up to the year on the job market
