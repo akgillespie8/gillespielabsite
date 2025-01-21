@@ -1,4 +1,13 @@
-- title: "Neurofeedback training can modulate task-relevant memory replay in rats"
+- title: "Closed-loop modulation of remote hippocampal representations with neurofeedback"
+  image: neurofeedback.png
+  description: ""
+  authors: "Coulter MC, **Gillespie AK**, Chu J, Denovellis EL, Nguyen TTK, Liu DF, Wadhwani K, Sharma B, Wang K, Deng X, Eden UT, Kemere C, Frank LM"
+  link:
+    url: https://www.cell.com/neuron/fulltext/S0896-6273(24)00923-1
+    display: Neuron (2025)
+  highlight: 0
+  
+  - title: "Neurofeedback training can modulate task-relevant memory replay in rats"
   image: neurofeedback.png
   description: "Our neurofeedback training paradigm couples online detection of SWRs with rapid positive feedback (food reward). The training paradigm dramatically increases SWR rate during the targeted interval, and these SWRs correspond to high-quality replay events with flexible, task relevant content."
   authors: "**Gillespie AK**, Astudillo Maya DA, Denovellis EL, Desse S, Frank LM"
