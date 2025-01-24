@@ -12,8 +12,8 @@ permalink: /resources/
 [Python package for clustered and clusterless decoding](https://github.com/Eden-Kramer-Lab/replay_trajectory_classification), from E. Denovellis
 
 [Statistics](https://seeing-theory.brown.edu/probability-distributions/index.html
-) | [Python for the practicing neuroscientist](https://elifesciences.org/labs/f779833b/python-for-the-practicing-neuroscientist-an-online-educational-resource) | [The good research code handbook](https://goodresearch.dev/
-) | [Data Science course](https://datascienceinpractice.github.io/docs/index.html) 
+) • [Python for the practicing neuroscientist](https://elifesciences.org/labs/f779833b/python-for-the-practicing-neuroscientist-an-online-educational-resource) • [The good research code handbook](https://goodresearch.dev/
+) • [Data Science course](https://datascienceinpractice.github.io/docs/index.html) 
 
 **Shared datasets**
 
@@ -46,7 +46,7 @@ I believe in sharing materials to make academia more fair & transparent. You'll 
 
 **BRAIN Initiative K99/R00 (2019)** [ Application materials, rebuttal, progress report, extension request](https://drive.google.com/drive/folders/1R5Pl7TitkIa5HdQH0LBTnCnkosFIC1n0?usp=sharing) 
 
-**Faculty Applications (2021)** [Anna's reflections on the academic job market]({{ site.url }}{{ site.baseurl }}/facultyjobmarket) ~ [ Application materials ](https://drive.google.com/drive/folders/1NO-0TC0NtO63ACdisLsQnGTT80trS1PL?usp=sharing) 
+**Faculty Applications (2021)** [Resources and reflections on the academic job market]({{ site.url }}{{ site.baseurl }}/facultyjobmarket) • [ Application materials ](https://drive.google.com/drive/folders/1NO-0TC0NtO63ACdisLsQnGTT80trS1PL?usp=sharing) 
 
 **R00 Transition Application (2022)** [ Application materials](https://drive.google.com/drive/folders/1q7S0Gsc2V5S4A7y_h13mQS33W-iTAgmE?usp=sharing) 
 Don't underestimate how much time this will take - start >3m before your start date! 

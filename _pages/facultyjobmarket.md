@@ -7,7 +7,7 @@ permalink: /facultyjobmarket
 ---
 
 # Reflections & resources for the faculty job market
-Jump to: [Early prep](#preparation), [Application materials](#application-materials), [First round interviews](#first-round-interviews), [Full interviews](#full-interviews), [Offers & negotiating](#offers--negotiations), [Making the decision](#making-the-decision)
+Jump to: [Early prep](#preparation) • [Application materials](#application-materials) • [First round interviews](#first-round-interviews) • [Full interviews](#full-interviews) • [Offers & negotiating](#offers--negotiations) • [Making the decision](#making-the-decision)
 
 Going through the job application was exhausting, stressful, and all-consuming, but I found it extremely useful to hear/read about the experiences of others. Clearly each person has a unique path through it, but I hope this document can provide just one more data point that can be useful to others. These are just my personal opinions and experiences, I’m no expert. 
 
