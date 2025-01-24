@@ -39,7 +39,7 @@ permalink: /resources/
 
 [Editing as an act of caring](https://scientistseessquirrel.wordpress.com/2020/03/03/in-praise-of-the-red-pen-editing-as-an-act-of-caring/)
 
-How to make an academic website for yourself: [Options overview](https://peerrecognized.com/website/) | [github pages tutorial](https://jayrobwilliams.com/posts/2020/06/academic-website/) | [Repo my site is based on](https://www.allanlab.org/)
+How to make an academic website for yourself: [Options overview](https://peerrecognized.com/website/) • [github pages tutorial](https://jayrobwilliams.com/posts/2020/06/academic-website/) • [Repo my site is based on](https://www.allanlab.org/)
 
 ### Career
 I believe in sharing materials to make academia more fair & transparent. You'll have to request access, but it will be rapidly granted! 
