@@ -31,13 +31,13 @@ Dates:
 - Committed: May 2022 
 
 ## Preparation
-Leading up to the year on the job market
+Leading up to the year on the job market:
 
 •	Get your work published (or at least on bioRxiv). I had initially planned to go on the job market for the 2020-2021 cycle, but decided to hold off because I didn’t have a first author paper from my postdoc even on bioRxiv yet. It didn’t seem worth the time investment to try and apply without one. 
 
 •	Build a social media profile. At the time for me (2022), this was twitter. Now, it might be bluesky? Linkedin? We'll see!  I only initially did this because of covid, and would never have predicted how impactful it could be. Yes, it can be a huge time-suck, but it’s also a powerful tool to showcase your work, raise awareness of your expertise, build connections with other researchers across the globe, and learn a TON about academic culture. IMO, totally worth it. You don’t have to post often to reap these benefits. 
 
-•	Consider making yourself an academic website; more resources for this are listed on my Resources page. At the very least, make sure your email is findable somehow, in case any interested search committees want to reach out to you.
+•	Consider making yourself an academic website; some resources for this are listed on my Resources page. At the very least, make sure your email is findable somehow, in case any interested search committees want to reach out to you.
 
 •	Present your work wherever and however possible (conferences, journal clubs, local groups, seminar series). This makes you practice and get comfortable “telling your story”, lets you take questions from a broad audience, expands your network/connections, and looks good on your CV. I try to keep an up-to-date list of external postdoc seminar series [here](https://docs.google.com/spreadsheets/d/1CBvj4aUEBMDN3KFhCTv0GxAMJ0RbJhsPx0woa4YlgXs/edit?usp=sharing). 
 
