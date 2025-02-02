@@ -9,6 +9,8 @@ permalink: /resources/
 ### Scientific Resources
 **Computational**
 
+We use and contribute to Spyglass, a python ecosystem for reproducible and shareable analysis of neural data. Preprint [here](https://www.biorxiv.org/content/10.1101/2024.01.25.577295v3).
+
 [Python package for clustered and clusterless decoding](https://github.com/Eden-Kramer-Lab/replay_trajectory_classification), from E. Denovellis
 
 [Statistics](https://seeing-theory.brown.edu/probability-distributions/index.html
@@ -56,6 +58,8 @@ Johns Hopkins lists of [funding opportunities](https://research.jhu.edu/rdt/fund
 [List of neuro-related postdoc seminar series](https://docs.google.com/spreadsheets/d/1CBvj4aUEBMDN3KFhCTv0GxAMJ0RbJhsPx0woa4YlgXs/edit?usp=sharing) - great to apply for these as a senior postdoc before/during faculty application season *please add any that you know of!*
 
 [List of neuro data analysis short courses/summer schools](https://docs.google.com/spreadsheets/d/1nezjxkU8kGsA9MUI3Eph60s303VwfQLqMSNrSnnRSzk/edit#gid=1015366364) curated by Natalie Schaworonkow
+
+For those considering applying to grad school, read [this](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009276)
 
 ### UW Resources 
 
