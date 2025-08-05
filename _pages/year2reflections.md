@@ -1,9 +1,9 @@
 ---
 title: "Gillespie Lab - Reflections after 2 years"
 layout: textlay
-excerpt: "Faculty Job Market"
+excerpt: "Year 2 reflections"
 sitemap: false
-permalink: /facultyjobmarket
+permalink: /year2reflections
 ---
 
 # Reflections, 2 years in
