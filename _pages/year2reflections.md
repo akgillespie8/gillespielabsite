@@ -7,7 +7,7 @@ permalink: /year2reflections
 ---
 
 # Reflections, 2 years in
-Jump to: [How it started](#how-it-unfolded) • [Helpful things](#helpful-things) • [Surprising things](#surprising-things) • [Ongoing struggles](#struggles) • [Strategies](#strategies) 
+Jump to: [How it started](#how-it-unfolded) • [Helpful things](#helpful-things) • [Surprising things](#surprising-things) • [Ongoing struggles](#ongoing-struggles) • [Strategies](#good-strategies) 
 
 At this point, I still feel new; I don’t feel like I really “know the ropes” or have things running smoothly; TBD on whether I’m doing things “right”. Regardless, I hope my experience can be helpful as just one data point of how things can go, and I can pass along some of the advice that I took or things I found helpful. For context, I’m a systems neuroscientist doing in vivo electrophysiology in rats with a long (7+ year) postdoc in an HHMI lab and K99/R00 transition funding, starting a position in an R1 medical school with minimal teaching load and a primarily research-focused position.
 
@@ -73,6 +73,9 @@ After negotiations wrapped up, I signed my offer letter from UW in May 2022, wit
 -Hire staff to a temp position (1year) first so that you can decide whether or not to make them a permanent team member 
 
 -You will receive SO. MUCH. ADVICE. Much of it will conflict, not all will resonate. It's useful to hear different perspectives but definitely don't feel obliged to follow any of them; do what feels right and relevant to your specific circumstances and what feels true to your style
+
+
+
 
 
 
