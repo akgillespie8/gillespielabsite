@@ -1,3 +1,12 @@
+- title: "A semi-automated, parallelized, flexible spatial navigation task for rats"
+  image: 6arm.jpg
+  description: ""
+  authors: "**Saathoff V**, **O'Leary CI**, **Gillespie AK**"
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2025.07.22.666070v1
+    display: bioRxiv (2025)
+  highlight: 1
+
 - title: "Closed-loop modulation of remote hippocampal representations with neurofeedback"
   image: neurofeedback.png
   description: ""
@@ -51,7 +60,7 @@
   link:
     url: https://www.sciencedirect.com/science/article/pii/S2211124719313701?via%3Dihub
     display: Cell Reports, 29(8):2123-2133 (2019)
-  highlight: 1
+  highlight: 0
  
 - title: "Apolipoprotein E4 Causes Age-Dependent Disruption of Slow Gamma Oscillations During Hippocampal Sharp-wave Ripples"
   image: e4slowgamma.jpg
