@@ -8,20 +8,20 @@
 #  education3:
 #  education4:
 
-- name: <a href="https://www.simonsfoundation.org/funded-project/linking-molecules-circuits-and-behavior-to-promote-plasticity-and-memory-in-the-aging-brain/">Simons Collaboration on Plasticity and the Aging Brain</a> project 
-  info: Saul Villeda and Jeremy Shea (UCSF), Loren Frank (UCSF), Lisa Giocomo (Stanford), and Amar Sahay (Harvard)
+- name: <a href="https://www.simonsfoundation.org/funded-project/linking-molecules-circuits-and-behavior-to-promote-plasticity-and-memory-in-the-aging-brain/">SCPAB Linking Molecules, Circuits, and Behavior project</a> project 
+  info: Saul Villeda (UCSF), Lisa Giocomo (Stanford), and Amar Sahay (Harvard)
   number_educ: 1
   education1:  Assessing hippocampal gene expression changes with aging and linking them to behavioral and neural phenotypes
+
+- name: <a href="https://www.simonsfoundation.org/funded-project/glial-mechanisms-by-which-sleep-preserves-cognitive-function-and-plasticity-in-aging/">SCPAB Sleep and Neuro-Immune-Vascular Homeostasis project </a> project 
+  info: Beth Stevens (Harvard), Anne Brunet (Stanford), Laura Lewis (MIT), Maiken Nedergaard (Rochester), and Amar Sahay (Harvard)
+  number_educ: 1
+  education1:  Exploring the contributions of sleep to neuroimmune resilience in aging 
 
 - name: <a href="https://www.edenovellis.com/">Eric Denovellis</a>
   info: Research scientist, Loren Frank lab, UCSF
   number_educ: 1
   education1: Improving and extending spatial decoding algorithms
-
-- name: Marcelo Mattar and Homero Esmeraldo
-  info: University of California, San Diego
-  number_educ: 1
-  education1: Reinforcement learning models to capture the role of hippocampal replay
 
 - name: <a href="https://www.neuroact.in/">Abhilasha Joshi</a>
   info: <a href="https://www.simonsfoundation.org/people/abhilasha-joshi/">SCPAB TTI fellow</a>, NCBS, India
